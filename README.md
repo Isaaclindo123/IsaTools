@@ -14,7 +14,7 @@ Link OneDrive: https://1drv.ms/u/c/c2cc610a8546891b/IQBUjA8jaVVrRb86kUp5wk2JAfHK
 
 Link Drive: https://drive.google.com/file/d/13jcoXNAuG6R04r796Adlez9F0xn6Td92/view?usp=drive_link
 
-Instalador feito
+Instalador feito no Advenced Installer
 
 #Informações
 
